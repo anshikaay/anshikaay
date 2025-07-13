@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshikaay
 - 👀 I’m interested in Web Development and AI
-- 🌱 I’m currently learning web D.
+- 🌱 I’m currently learning web D and Python.
 - 💞️ I’m looking to collaborate on related projects.
 - 😄 Pronouns: she/her
   
