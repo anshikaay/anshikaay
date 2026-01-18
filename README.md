@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anshikaay
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning web D and Python.
+- 🥀 I also have experience with UX design (Figma and Framer).
 - 💞️ I’m looking to collaborate on related projects.
 - 😄 Pronouns: she/her
   
