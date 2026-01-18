@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anshikaay
+- 👋 Hi, I’m @anshikaay,a CSE student.
 - 👀 I’m interested in Web Development and AI
 - 🌱 I’m currently learning web D and Python.
 - 🥀 I also have experience with UX design (Figma and Framer).
